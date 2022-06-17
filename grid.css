@@ -1,0 +1,49 @@
+ .grid-container {
+  width: 60%;
+  margin: 3rem auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  border-radius: 10px;
+  padding:10px;
+}
+  .item1 {
+    position: absolute;
+    width: 788px;
+    height: 402px;
+    left: 120px;
+    top:72px;
+    background: #222AE2;
+  }
+  .item2 {
+    position: absolute;
+    width: 464px;
+    height: 402px;
+    left: 928px;
+    top: 72px;
+    background: #77CFF5;
+  }
+  .item3 {
+    position: absolute;
+    width: 464px;
+    height:402px;
+    left: 120px;
+    top: 508px;
+    background: #110782;
+  }
+  .item4 {
+    position: absolute;
+    width: 788px;
+    height: 183px;
+    left: 604px;
+    top: 727px;
+    background: #0D84C6;
+  }
+  .item5 {
+    position: absolute;
+    width:788px;
+    height: 183px;
+    left: 604px;
+    top: 727px;
+    background: #0E46B1;
+  }
